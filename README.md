@@ -1,7 +1,7 @@
 # Prueba Técnica Taurus  
 **Autor:** David Cardona Duque  
 
-En este documento se describe cómo se resolvieron los puntos propuestos en la prueba técnica y se incluye evidencia correspondiente. Además, se proporcionan instrucciones detalladas para la ejecución del proyecto, que se adjunta en formato comprimido.  
+En este documento se describe cómo se resolvieron los puntos propuestos en la prueba técnica y se incluye evidencia correspondiente. Además, se proporcionan instrucciones para la ejecución del proyecto.  
 
 ---
 
